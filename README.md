@@ -44,6 +44,6 @@
 
 
 ## License 📜
-The Minivisor project is licensed under the [MIT License 😊](https://github.com/OverusedHuman/MiniVisor/raw/main/LICENSE). Feel free to modify and distribute the application according to the terms of this license.
+The Minivisor project is licensed under the [MIT License 😊](https://github.com/OverusedHuman/MiniVisor/raw/master/LICENSE). Feel free to modify and distribute the application according to the terms of this license.
 
 Thank you for using Minivisor to simplify your inventory management process and streamline the taste testing routine. 👏
